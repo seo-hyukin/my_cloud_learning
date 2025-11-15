@@ -1,0 +1,16 @@
+# Python
+__pycache__/ 
+*.py[cod]
+*$py.class
+
+#Virtual Environment
+venv/
+venv.bak/
+.venv/
+
+#Operating System
+.DS_Store
+Thumbs.db
+
+#VSCode
+.vscode/
